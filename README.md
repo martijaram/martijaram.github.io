@@ -1,6 +1,6 @@
 # My personal website
 
-[Link](martijara.github.io)
+[Link](martijaram.github.io)
 
 
 Template design by [bchiang7](https://brittanychiang.com/)
