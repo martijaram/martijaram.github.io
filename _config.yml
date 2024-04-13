@@ -9,12 +9,12 @@ cover: https://martijaram.github.io/img/technologist.png
 logo: https://martijaram.github.io/img/emojis/technologist.png
 resume: https://bchiang7.github.io/resume.pdf
 social:
-  - title: email
-    url: mailto:davidmartijara@gmail.com
   - title: Medium
     url: http://medium.com/@martijaram
   - title: LeetCode
     url: https://leetcode.com/martijaram
+  - title: twitter
+    url: https://twitter.com/martijaram
   - title: github
     url: https://github.com/martijaram
 
