@@ -2,3 +2,12 @@
 .DS_Store
 _site
 node_modules
+*.vsidx
+.vs/VSWorkspaceState.json
+.vs/slnx.sqlite
+.vs/ProjectSettings.json
+.vs/martijaram.github.io/v17/DocumentLayout.json
+.vs/martijaram.github.io/v17/.wsuo
+.vs/martijaram.github.io/FileContentIndex/f7a8df26-ff3b-4f2e-9bdc-4fbd0f57c0db.vsidx
+.vs/martijaram.github.io/config/applicationhost.config
+.vs/martijaram.github.io/FileContentIndex/f7a8df26-ff3b-4f2e-9bdc-4fbd0f57c0db.vsidx
